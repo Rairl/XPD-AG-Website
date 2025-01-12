@@ -4,4 +4,5 @@ We used npm install webgi and we got a different version which does not work, so
 
 To view the 3D model, use VS code and use npm run dev!
 
-Files are in the google drive link
+Files are in the google drive link, files are too big to upload to GitHub
+
